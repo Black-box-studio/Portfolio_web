@@ -46,7 +46,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I'm a VFX professional artist with a diverse journey from PABCET College to freelancing at Rays3D for a year, followed by enriching experiences at 4K Picture Pvt Ltd and currently contributing expertise at Pixrock VFX as a Roto Artist for over 1 year and 3 months. Accumulating a solid 3-year tenure in the industry, I've honed proficiency across Maya, Houdini, Nuke, Unreal Engine, and SilhouetteFX. Transitioning focus towards becoming a Pipeline Developer, leveraging my Roto Artist experience to dive into the realm of pipeline development. Driven by a passion for innovation and dedicated to continual growth within the dynamic landscape of visual effects."
+          I&#39;m a VFX professional artist with a diverse journey from PABCET College to freelancing at Rays3D for a year, followed by enriching experiences at 4K Picture Pvt Ltd and currently contributing expertise at Pixrock VFX as a Roto Artist for over 1 year and 3 months. Accumulating a solid 3-year tenure in the industry, I&#39;ve honed proficiency across Maya, Houdini, Nuke, Unreal Engine, and SilhouetteFX. Transitioning focus towards becoming a Pipeline Developer, leveraging my Roto Artist experience to dive into the realm of pipeline development. Driven by a passion for innovation and dedicated to continual growth within the dynamic landscape of visual effects.
 
 Feel free to adjust it further to better capture your journey and aspirations!
         </motion.p>
